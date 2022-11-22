@@ -4,3 +4,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 lld filter=lfs diff=lfs merge=lfs -text
+SpeedyTurtlesGame/Library/Artifacts filter=lfs diff=lfs merge=lfs -text
+5c7e30856978b050dab45b200ab3a3a4 filter=lfs diff=lfs merge=lfs -text
